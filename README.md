@@ -46,6 +46,13 @@ This Analysis aims to identify the total revenue corresponding to market and mon
 3.) Delhi has the highest occupancy and average rating of 60.44% and 3.78/5, whereas Mumbai generated highest revenue of 660M.
 
 _By comparing occupancy rates, ADR (Average Daily Rate), and revenue metrics,  there is need  for dynamic pricing.  The analysis reveals that the hotel employs a flat pricing strategy, not differentiating rates for weekdays and weekends. There is the importance of adopting dynamic pricing strategies based on demand fluctuations to optimize revenue potential._
+# Contributing :-
+Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
+
+# Links :-
+I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
+
+Connect with me on LinkedIn 🌐 :)
 
 
 
