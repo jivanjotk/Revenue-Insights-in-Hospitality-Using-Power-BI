@@ -1,6 +1,6 @@
 # Revenue-Insights-in-Hospitality-Using-Power-BI
 ## About the Project :-
-The Revenue Insights in Hospitality Using Power BI  Project aims to create the Revenue insights dashboard using 3 months of data of a Hospitality Business that has been losing revenue and market share due to ineffective decision-making. With the help of this Dashboard Stakeholders can make a better data-driven decision that can lead to a growth in 20% of overall revenue and market share.
+The Revenue Insights in Hospitality Using Power BI  Project aims to create the Revenue insights dashboard using 3 months of data of a Hospitality Business that has been losing revenue and market share due to ineffective decision-making. With the help of this Dashboard Stakeholders can make a better data-driven decision that can lead to a growth in  of overall revenue and market share.
 
 This Analysis aims to identify the total revenue corresponding to market and month, Occupancy % of different properties, and Average rating by customers in the different market areas with various room categories combined.
 ## Key Metrics :-
